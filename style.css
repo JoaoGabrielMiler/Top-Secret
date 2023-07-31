@@ -1,0 +1,93 @@
+body{
+    font-family: "Open Sans", Arial, Helvetica, sans-serif;
+}
+
+.top-bar{
+    height: 150px; 
+    background-color: black;
+    padding-top: 40px;
+    
+    }
+
+.h1-top{
+    width: 80px;
+    margin: 0px;
+    background-color:#9b0a03;
+    color: white;    
+}
+
+.h1-secret{ 
+    width: 140px;
+    background-color: whitesmoke;
+    color: #383739
+}
+
+
+.mid-content{
+background-image: url(./images/background1.jpg); 
+height: 450px; 
+background-position: center; 
+background-size: cover;
+position: relative;
+border: 10px solid #b79818;
+border-right: none;
+border-left: none;
+}
+
+.mid-div-content{
+position: absolute;
+right: 0; 
+bottom: 8em;
+display: inline-block; 
+transform: skew(0deg, -8deg);
+}
+
+
+.h2-txt{
+    color: #b79818;
+    background-color: #383739;
+    padding: .5em;
+    /* padding-right: 2em;
+    border-radius: 5cm; */
+}
+
+.content{
+    background-color:#4d4d48; 
+    height: auto;
+}
+
+.btn{
+    width: 320px;
+}
+
+
+.img-nagata{
+    padding-top: 30px;
+    width: 400px;
+    position: relative;
+}
+
+.txt-bt{
+    padding-top: 0px;
+    text-align: auto
+}
+
+.h1{
+    padding-top: 20px;
+    color: #b79818;
+}
+
+
+.txt-p{
+    font-weight: bold ;
+    padding-top: 25px;
+}
+
+
+
+
+/* nao vou utilizar mas vou deixar aqui para futuras ideias .nav{
+    height: 10px ;
+    margin-top: 0px; 
+    background-color: #b79818;
+} */ 

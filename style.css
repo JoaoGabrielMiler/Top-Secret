@@ -47,8 +47,6 @@ transform: skew(0deg, -8deg);
     color: #b79818;
     background-color: #383739;
     padding: .5em;
-    /* padding-right: 2em;
-    border-radius: 5cm; */
 }
 
 .content{
@@ -84,10 +82,3 @@ transform: skew(0deg, -8deg);
 }
 
 
-
-
-/* nao vou utilizar mas vou deixar aqui para futuras ideias .nav{
-    height: 10px ;
-    margin-top: 0px; 
-    background-color: #b79818;
-} */ 

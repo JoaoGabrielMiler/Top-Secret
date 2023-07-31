@@ -24,22 +24,22 @@ body{
 
 
 .mid-content{
-background-image: url(./images/background1.jpg); 
-height: 450px; 
-background-position: center; 
-background-size: cover;
-position: relative;
-border: 10px solid #b79818;
-border-right: none;
-border-left: none;
+    background-image: url(./images/background1.jpg); 
+    height: 450px; 
+    background-position: center; 
+    background-size: cover;
+    position: relative;
+    border: 10px solid #b79818;
+    border-right: none;
+    border-left: none;
 }
 
 .mid-div-content{
-position: absolute;
-right: 0; 
-bottom: 8em;
-display: inline-block; 
-transform: skew(0deg, -8deg);
+    position: absolute;
+    right: 0; 
+    bottom: 8em;
+    display: inline-block; 
+    transform: skew(0deg, -8deg);
 }
 
 
@@ -47,8 +47,6 @@ transform: skew(0deg, -8deg);
     color: #b79818;
     background-color: #383739;
     padding: .5em;
-    /* padding-right: 2em;
-    border-radius: 5cm; */
 }
 
 .content{
@@ -86,8 +84,3 @@ transform: skew(0deg, -8deg);
 
 
 
-/* nao vou utilizar mas vou deixar aqui para futuras ideias .nav{
-    height: 10px ;
-    margin-top: 0px; 
-    background-color: #b79818;
-} */ 

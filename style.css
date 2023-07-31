@@ -6,7 +6,6 @@ body{
     height: 150px; 
     background-color: black;
     padding-top: 40px;
-    
     }
 
 .h1-top{
@@ -21,7 +20,6 @@ body{
     background-color: whitesmoke;
     color: #383739
 }
-
 
 .mid-content{
     background-image: url(./images/background1.jpg); 
@@ -42,7 +40,6 @@ body{
     transform: skew(0deg, -8deg);
 }
 
-
 .h2-txt{
     color: #b79818;
     background-color: #383739;
@@ -57,7 +54,6 @@ body{
 .btn{
     width: 320px;
 }
-
 
 .img-nagata{
     padding-top: 30px;
@@ -75,12 +71,7 @@ body{
     color: #b79818;
 }
 
-
 .txt-p{
     font-weight: bold ;
     padding-top: 25px;
 }
-
-
-
-
